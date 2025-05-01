@@ -1,4 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption-and-Decryption
+## Name: DHARSHINI K
+## Reg num:212223220017
 
 ## Aim:
 
